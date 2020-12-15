@@ -1,0 +1,20 @@
+           136.264      cache-references                                            
+            68.163      cache-misses              #   50,023 % of all cache refs    
+           152.993      cache-references                                            
+            63.653      cache-misses              #   41,605 % of all cache refs    
+           148.368      cache-references                                            
+            79.793      cache-misses              #   53,780 % of all cache refs    
+           145.986      cache-references                                            
+            61.862      cache-misses              #   42,375 % of all cache refs    
+           159.749      cache-references                                            
+            75.437      cache-misses              #   47,222 % of all cache refs    
+           124.464      cache-references                                            
+            82.763      cache-misses              #   66,496 % of all cache refs    
+           146.678      cache-references                                            
+            71.246      cache-misses              #   48,573 % of all cache refs    
+           131.487      cache-references                                            
+            66.209      cache-misses              #   50,354 % of all cache refs    
+           130.818      cache-references                                            
+            75.230      cache-misses              #   57,507 % of all cache refs    
+           126.487      cache-references                                            
+            70.018      cache-misses              #   55,356 % of all cache refs    
